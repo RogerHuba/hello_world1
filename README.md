@@ -6,11 +6,7 @@ This is going to be a hello world repo.
 
 Roger Huba
 
-### Descrition
-
-This my HEllo World PAge!
-
-#### The commands to run
+### The commands to run
 
 - (A)dd: `git add filename`
 - (C)ommit: `git commit -m "your message here"`
