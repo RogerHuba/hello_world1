@@ -10,6 +10,8 @@ Roger Huba
 
 This my HEllo World PAge!
 
-#### This is another heading
+#### The commands to run
 
-And I just need something to type.  Go Star Wars!
+- (A)dd: `git add filename`
+- (C)ommit: `git commit -m "your message here"`
+- (P)ush: `git push origin main`
